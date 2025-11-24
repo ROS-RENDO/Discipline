@@ -1,0 +1,4 @@
+{
+  "presets": [["babel-preset-expo", { "web": true, "native": false }]],
+  "plugins": ["@babel/plugin-syntax-jsx", "@babel/plugin-syntax-typescript"]
+}
